@@ -45,6 +45,11 @@ class:inverso, center, middle
 ### - Definir un **Sistema de Información** y describir su gestión, organización y componentes de tecnología
 
 ---
+class: center, middle
+
+## Laudon, K. C., Laudon, J. P.(2016). *Sistemas de información gerencial*. **Capítulo 1**.  Pearson Educación.
+
+---
 
 class:inverso, center, middle
 
@@ -334,7 +339,7 @@ knitr::include_graphics("images/walmart.png")
 
 ## (c) Cercanía y compromiso con clientes y proveedores
 
-> ### CRM: Customer Relationship Managemente Cuando una empresa conoce a sus clientes y les da buen servicio, estos por lo general responden con fidelidad y comprando más, generando ingresos y ganancias
+> ### CRM: Customer Relationship Management: Cuando una empresa conoce a sus clientes y les da buen servicio, estos por lo general responden con fidelidad y comprando más, generando ingresos y ganancias
 
 .pull-left[**Impacto del SI**: Requisito para poder implantar cualquier programa CRM. Sin un SI no podemos conocer, ni almacenar las interacciones con el cliente y no podemos personalizar la oferta.
 
@@ -401,11 +406,6 @@ class:inverso, center, middle
 
 # 3.- Los SI: Perspectiva tecnológica y de negocio
 
----
-
-class:inverso, center, middle
-
-# 3.1 Perspectiva tecnológica
 
 ---
 
@@ -414,6 +414,13 @@ class: center, middle
 ## Perspectivas para analizar los Sistemas de Información
 
 ### Los SI se pueden analizar desde una perspectiva teconológica o desde un perspectiva de empresa
+
+---
+
+class:inverso, center, middle
+
+# 3.1 Perspectiva tecnológica
+
 
 ---
 
@@ -527,6 +534,8 @@ class:inverso, center, middle
 
 ---
 
+class: center, left
+
 ## Perspectiva empresarial (I)
 
 ### Los SI son instrumentos de **creación de valor**
@@ -557,6 +566,8 @@ class: center, middle
 
 ---
 
+class: center, left
+
 ## Perspectiva empresarial (III):  La Cadena de Valor de la Información en los negocios
 
 ### Los datos en bruto adquiridos y transformados a través de etapas generan **información de valor** 
@@ -577,6 +588,8 @@ Fuente: Laudon &amp; Laudon, (2014) Management Information Systems: Managing the
 
 
 ---
+
+class: center, left
 
 ## Perspectiva empresarial (V): ¿Qué factores contribuyen al éxito?
 

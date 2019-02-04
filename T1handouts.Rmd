@@ -78,13 +78,13 @@ Existen infinitos ejemplos de bienes de información, algunos (como un libro o u
 
 ## Características de la información
 
-Así, la información es **costosa de producir pero fácil de reproducir**. Por ejemplo, una película o un videojuego tienen costes de producción de milones de euros, pero pueden reproducirse por céntimos. Dicho de otra forma, los bienes de información tienen altos costes fijos de producción y bajos costes marginales.
+Así, la información es **costosa de producir pero fácil de reproducir**. Por ejemplo, una película o un videojuego tienen costes de producción de millones de euros, pero pueden reproducirse por céntimos. Dicho de otra forma, los bienes de información tienen altos costes fijos de producción y bajos costes marginales.
 
 El hecho de que el coste marginal de producción sea bajo implica que son bienes **fáciles de copiar y difíciles de proteger** por lo que los aspectos ligados a la gestión de la propiedad intelectual son una preocupación permanente en las industrias digitales. 
 
 Además, los bienes de información son **bienes de experiencia**, ya que el consumidor no es puede estar seguro de si el valor del bien se corresponde a su precio hasta después de su disfrute (por ejemplo, en el caso de un informe de inteligencia de mercado o una película).
 
-Por último, la información se puede **distribuir muy rápidamente en el tiempo y en el espacio** por lo que crece en tamaño y en presencia y puede resultar en **sobrecarga de información** tanto para la toma de decisiones en las empresas como dede el punto de vista del consumidor. Así, resulta crítico facilitar los procesos por los que los consumidores localizan y filtran la información para comunicar lo relevante.
+Por último, la información se puede **distribuir muy rápidamente en el tiempo y en el espacio** por lo que crece en tamaño y en presencia y puede resultar en **sobrecarga de información** tanto para la toma de decisiones en las empresas como desde el punto de vista del consumidor. Así, resulta crítico facilitar los procesos por los que los consumidores localizan y filtran la información para comunicar lo relevante.
 
 ```{r echo=FALSE, fig.margin=TRUE, message=FALSE, warning=FALSE, out.width="100%"}
 
@@ -100,7 +100,7 @@ La tecnología de la información se define como la infraestructura que hace pos
 
 La evolución en la tecnología de la información ha facilitado enormemente las capacidades para la gestión de esta información, **aumentando simultáneamente su valor**.
 
-Así, la información es más valiosa si podemos acceder a ella en el momento en el que la necesitamos que si tenemos que esperar semanas. Por ejemplo, el valor de la información sobre los precios de un producto en distintos establecimientos se ha incrementado enormente para los consumidores cuando pueden acceder a ella de forma inmediata en el móvil mientras están tomando la decisión de compra.
+Así, la información es más valiosa si podemos acceder a ella en el momento en el que la necesitamos que si tenemos que esperar semanas. Por ejemplo, el valor de la información sobre los precios de un producto en distintos establecimientos se ha incrementado enormemente para los consumidores cuando pueden acceder a ella de forma inmediata en el móvil mientras están tomando la decisión de compra.
 
 Así, los creadores de contenido digital dependen de las capacidades de la infraestructura y los operadores de infraestructura dependen de los creadores de contenido. Por ejemplo, una plataforma de hardware para la que no se desarrolla software no tiene futuro (e.g. Windows Mobile).
 
@@ -114,7 +114,7 @@ knitr::include_graphics("images/youtube1.png")
 
 ```
 
-La Tecnología de la Información surge cuando se producen los primeros intercambios de negocios en los que surge la necesidad de archivar información y compartir esta información. Los primeros registros aparecen en la cultura sumeria en torno al 3000 AC y posteriormente en el Antiguo Egipto desde el 3000AC al 30 AC. El proceso era costoso en dinero y espacio. Con la aparición del papel se reduce la necesidad de especio pero no tanto la de dinero.
+La Tecnología de la Información surge cuando se producen los primeros intercambios de negocios en los que surge la necesidad de archivar información y compartir esta información. Los primeros registros aparecen en la cultura sumeria en torno al 3000 AC y posteriormente en el Antiguo Egipto desde el 3000AC al 30 AC. El proceso era costoso en dinero y espacio. Con la aparición del papel se reduce la necesidad de espacio pero no tanto la de dinero.
 
 La primera máquina de Tecnología de Información aparece en el siglo XV (imprenta de Gutemberg) y posteriormente en el siglo XIX con la primera revolución industrial: ferrocarril, teléfono, telégrafo, calculadoras… aunque siguen siendo necesarios grandes espacios y personal.
 
@@ -144,7 +144,7 @@ Hoy en día se detectan estas tendencias que afectan en tres niveles: negocios, 
   - El comercio minorista a través del móvil despega con una facturación en Francia, Alemania, España, Italia y Reino Unido de más de 80.000 millones de euros en 2017
   - Las aplicaciones móviles ya tienen más de 2.000 millones de usuarios
   - El comercio a través de redes sociales también crece, en 2016 supuso 25.000 millones de euros
-  - Rápido crecimiento de las llamdas "plataformas de servicio a demanda": Uber, Airbnn, deliveroo, etc...
+  - Rápido crecimiento de las llamadas "plataformas de servicio a demanda": Uber, Airbnb, deliveroo, etc...
   - La publicidad en el móvil copa prácticamente la inversión en publicidad digital con un 70% de la inversión
   - Los pequeños negocios se siguen uniendo a los canales electrónicos, principalmente a través de las grandes plataformas: Facebook, Google, Amazon...
 
@@ -152,13 +152,13 @@ Hoy en día se detectan estas tendencias que afectan en tres niveles: negocios, 
 
   - Los dispositivos móviles son la plataforma alternativa para todas las actividades digitales: navegación, compra, consumo multimedia...
   - La computación en la nube completa la transformación, eliminando las limitaciones por capacidad de almacenamiento en los dispositivos
-  - Internet of Things compuesto por billones de dispositivos conectados a internet sigue creciendo exponencialmente
+  - Internet of Things compuesto por billones de dispositivos conectados a Internet sigue creciendo exponencialmente
   - Los datos de navegación y del IoT generan Petabytes de datos en tiempo real: Big Data
   - Crecen las herramientas, capacidades y el uso del Business Analytics para poder aprovechar este Big Data
 
 - **Tendencias en la sociedad:**
 
-  - El contenido generado por los usuarios que se publica online en redes sociales y como videos y fotografías compartidas sigue creciendo y es un medio de autopublicación que implica a millones de personas.
+  - El contenido generado por los usuarios que se publica online en redes sociales y como vídeos y fotografías compartidas sigue creciendo y es un medio de autopublicación que implica a millones de personas.
   - Las redes sociales sin embargo, presentan retos y amenazas para la privacidad
   - Las redes sociales ya no son una actividad para adolescentes, sino que cada vez más adultos se implican en redes sociales. Las redes sociales utilizadas cambian por grupo de edad. 
   - Los conflictos de copyright siguen presentes. El derecho de protección de la propiedad intelectual es una cuestión no resuelta en el entorno online.
@@ -276,9 +276,9 @@ knitr::include_graphics("images/kiosko.jpg")
 
 Los sistemas de información pueden proporcionar información precisa en el momento adecuado.
 
-Ejemplo: Video [El Corte Inglés y SAP](https://www.youtube.com/watch?v=UnpZt6fcD5o) 3,11’’ 
+Ejemplo: Vídeo [El Corte Inglés y SAP](https://www.youtube.com/watch?v=UnpZt6fcD5o) 3,11’’ 
 
-En el video se denomina SAP como una solución estandarizada, frente a desarrollar tu propio software. El foco de la actividad de El Corte Inglés se define como la analítica de la información y la personalización relación con el cliente. Se habla también de los sistemas de previsión de la demanda, de optimización de surtido horizontal y profundidad: minimizar roturas de stocks y de optimizar precio y promociones. Se considera que los aspectos claves de tecnología en retailing son la movilidad en tienda, en almacén, big data y el multicanal.
+En el vídeo se denomina SAP como una solución estandarizada, frente a desarrollar tu propio software. El foco de la actividad de El Corte Inglés se define como la analítica de la información y la personalización relación con el cliente. Se habla también de los sistemas de previsión de la demanda, de optimización de surtido horizontal y profundidad: minimizar roturas de stocks y de optimizar precio y promociones. Se considera que los aspectos claves de tecnología en retailing son la movilidad en tienda, en almacén, big data y el multicanal.
 
 ```{r echo=FALSE, fig.margin=TRUE, message=FALSE, warning=FALSE, out.width="100%"}
 
@@ -413,7 +413,7 @@ Por último, con respecto a la **Tecnología**, es necesario determinar:
 
 Los SI deben entenderse como instrumentos de creación de valor y desde ese punto de vista, las inversiones en tecnología deben analizarse considerando hasta que punto contribuyen a un aumento en la productividad, en los ingresos, en la mejora de la posición estratégica u otro tipo de variables.
 
-Por ejemplo, si tomamos el caso del [video de historia clínica](https://www.youtube.com/watch?v=y5B5GLMv97s)^[En este video se muestra cómo España está a la cabeza en mayor número de hospitales con historia clínica electrónica. En este caso, han desarrollado un sistema para informatizar la cama que sirve tanto para la historia clínica como para ocio y comunicación. Lo más innovador es el reconocimiento de voz para la discapacidad a coste bajo con software libre. Muy interesante la figura.]  (4,38”), 
+Por ejemplo, si tomamos el caso del [video de historia clínica](https://www.youtube.com/watch?v=y5B5GLMv97s)^[En este vídeo se muestra cómo España está a la cabeza en mayor número de hospitales con historia clínica electrónica. En este caso, han desarrollado un sistema para informatizar la cama que sirve tanto para la historia clínica como para ocio y comunicación. Lo más innovador es el reconocimiento de voz para la discapacidad a coste bajo con software libre. Muy interesante la figura.]  (4,38”), 
 podemos analizar cuál es el valor del sistema de información para la empresa, ¿en qué está aportando valor?:
 
 ```{r echo=FALSE, fig.margin=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
