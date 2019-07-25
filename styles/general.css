@@ -246,6 +246,7 @@ a:hover {
  
 .btn:hover, .btn:focus {
     background-color: var(--secondary-color-darker);
+    box-shadow: 0 3px 6px rgba(0, 0, 0, .6);
   }
   
 .btn > * {
