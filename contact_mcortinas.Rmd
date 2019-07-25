@@ -9,7 +9,7 @@ background-position: 90% 5%
 
 <a href="https://b.socrative.com/teacher/" target="_blank">
   <button class="btn btn-final">
-    <span class="button--inner"><i class="fas fa-question-circle"></i> Test en Socrative</a> </span>
+    <span class="buttoninner"><i class="fas fa-question-circle"></i> Test en Socrative</a> </span>
   </button>
 </a>
 

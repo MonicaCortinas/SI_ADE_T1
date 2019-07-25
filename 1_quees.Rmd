@@ -91,7 +91,7 @@ class: center
 
 <a href="https://www.ibisworld.com/cart/purchase-options/" target="_blank">
   <button class="btn">
-    <span class="button--inner">Ejemplo: Ibis Reports</span>
+    <span class="buttoninner">Ejemplo: Ibis Reports</span>
   </button>
 </a>
 <div class="centerdiv">
@@ -161,7 +161,7 @@ class:center, middle
 
 <a href="https://b.socrative.com/teacher/#start-quiz/24569842" target="_blank">
   <button class="btn">
-    <span class="button--inner">Socrative. Room 282228</span>
+    <span class="buttoninner">Socrative. Room 282228</span>
   </button>
 </a>
 

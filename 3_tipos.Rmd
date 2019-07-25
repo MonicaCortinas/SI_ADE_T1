@@ -80,7 +80,7 @@ knitr::include_graphics("images/erps.png")
 
 <a href="https://www.youtube.com/watch?v=I8Y9yEQTrhw" target="_blank">
   <button class="btn">
-    <span class="button--inner">Ver en Youtube</span>
+    <span class="buttoninner">Ver en Youtube</span>
   </button>
 </a>
 ]
@@ -108,7 +108,7 @@ knitr::include_graphics("images/erps.png")
 
 <a href="https://www.youtube.com/watch?v=E-W2ILiRLnk" target="_blank">
   <button class="btn">
-    <span class="button--inner">Ver en Youtube</span>
+    <span class="buttoninner">Ver en Youtube</span>
   </button>
 </a>
 ]

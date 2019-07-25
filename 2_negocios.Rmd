@@ -141,7 +141,7 @@ e.g. [Aranzadi Infolex](https://www.infolexnube.es/Account/Login?ReturnUrl=%2f)
 
 <a href="https://www.youtube.com/watch?v=xEak6SDzc3A" target="_blank">
   <button class="btn">
-    <span class="button--inner">Ver en Youtube</span>
+    <span class="buttoninner">Ver en Youtube</span>
   </button>
 </a>
 ]
