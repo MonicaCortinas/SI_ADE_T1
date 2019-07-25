@@ -1,0 +1,55 @@
+class: center, middle, remark-inverse
+
+# 4. Diseño e implantación de sistemas de información
+
+---
+
+# Participantes en el proceso de desarrollo de sistemas
+
+### <i class="fas fa-portrait accent"></i> Directivos
+
+### <i class="fas fa-user-cog accent"></i> Directivos especialistas
+
+### <i class="fa fa-user-tie accent"></i> Consultores
+
+### <i class="fa fa-user-md accent" ></i> Personal técnico y de desarrollo
+
+###  <i class="fa fa-user accent"></i> Usuarios finales
+
+---
+
+# Proceso de desarrollo
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+
+knitr::include_graphics("images/ciclodesarrollo.png")
+
+```
+
+---
+
+# Metodologías para el desarrollo de sistemas de información
+
+.pull-left[- Enfoque clásico: secuencial, por etapas del ciclo de vida
+
+- Enfoque basado en **prototipos**: e.g. [programa Apolo](https://es.wikipedia.org/wiki/Programa_Apolo)
+
+- Metodologías **Agile**: [Manifiesto](https://agilemanifesto.org/iso/es/manifesto.html)]
+
+.pull-right[
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e3A4wLbyK64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=e3A4wLbyK64" target="_blank">
+  <button class="btn">
+    <span class="button--inner">Ver en Youtube</span>
+  </button>
+</a>
+]
+
+---
+# Estructura
+
+### <span class="rojito">1.-</span> ¿Qué es un Sistema de Información?
+### <span class="rojito">2.-</span> El papel de los SI en los negocios
+### <span class="rojito">3.-</span> Tipos de sistemas de información
+### <span class="rojito">4.-</span> Diseño e implementación de sistemas de información

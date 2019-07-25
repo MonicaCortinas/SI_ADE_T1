@@ -1,0 +1,296 @@
+@import url(https://fonts.googleapis.com/css?family=Fira+Sans:300,300i,400,400i,500,500i,700,700i);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200,300,400,700);
+@import url(https://cdn.rawgit.com/tonsky/FiraCode/1.204/distr/fira_code.css);
+
+/* Variables */
+/*https://www.colourlovers.com/palette/2304287/Black_and_white_tea*/
+/*https://www.colourlovers.com/palette/557539/vivacious*/
+
+/* Donosti y Aulaga */
+:root {
+    --primary-color: #3f51b5;
+    --primary-color-lighter:   #757de8;
+    --primary-color-lightest: #aab6fe;
+    --primary-color-darker:   #002984;
+    --primary-color-darkest: #001970;
+    --secondary-color:        #cddc39;
+    --secondary-color-lighter:   #ffff72;
+    --secondary-color-lightest: #ffffa8;
+    --secondary-color-darker:#c8b900;
+    --secondary-color-darkest:#c49000;
+    --text1: #FFFFFF;
+    --text2: #212121;
+    --text3: #757575;
+    --dividercolor: #BDBDBD;
+
+  }
+
+
+
+/* GENERAL STYLES*/
+
+/* General fonts*/ 
+
+body {
+        font-family:  'Fira Sans','Droid Serif','Open Sans';
+        color: var(--text2);
+        font-size: 20px;
+        font-weight: 400;       
+        text-align: left;
+        margin-bottom:50px;
+}
+
+ /* Colors definitions */ 
+
+#colors_text {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border: 1px solid var(--dividercolor);
+    width: 100%;
+    margin: 5px;
+} 
+
+#colors_text div {
+    margin: 10px;
+    padding: 25px;
+    min-width: 100px;
+}
+
+#colors_palette {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border: 1px solid var(--dividercolor);
+    width: 100%;
+    margin: 5px;
+} 
+
+#colors_palette div {
+    margin: 10px;
+    padding: 25px;
+    min-width: 100px;
+}
+
+
+
+/* Font styles */
+
+#fonts {
+    border: 1px solid var(--dividercolor);
+    margin: 5px;
+    padding:20px;
+    width: 100%;
+
+} 
+
+.type-of-font {
+    display: inline-block;
+    padding: 10px;
+    margin: 40px;
+}
+
+.title {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.paragraph {
+
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.light{
+    font-weight: 200;
+}
+
+.bold{
+    font-weight: 700;
+}
+
+.code, .inline-code {
+    font-family: 'Fira Code', 'Lucida Console', Monaco, monospace;
+    font-size: 80%;
+  }
+  
+
+/*Text Styles*/
+
+#textstyles {
+    border: 1px solid var(--dividercolor);
+    text-align: left;
+    padding: 10px;
+    margin: 5px;
+    width: 100%;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Yanone Kaffeesatz';
+}
+
+h1 {
+    font-size: 3em;
+    font-weight: 400;
+    width: 100%;
+    background-color: var(--primary-color);
+    color: var(--text1);
+    padding: 0.25em;
+}
+
+h2 {
+    font-size: 2em; 
+    font-weight: 400;
+}
+
+h3 {
+    font-size: 2em;
+    font-weight: 200;
+
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: 700;
+
+}
+
+p {
+    font-family: 'Fira Sans';
+    line-height: 1.4em;
+    font-size: 20px;
+    font-weight: 400;       
+}
+
+p.lessimp {
+  color: var(--text3)  
+}
+
+.accent {
+  color: var(--primary-color-lighter)
+}
+.inverso {
+    width: 90%;
+    background-color: var(--primary-color);
+    color: var(--text1);
+    padding: 0.25em;
+}
+
+/*Other*/
+
+#other{
+    border: 1px solid var(--dividercolor);
+    text-align: center;
+    padding: 10px;
+    margin: 5px;  
+    width:100%;
+}
+/* Tables */
+
+table {
+    width:100%;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: var(--primary-color-lighter);
+    color: var(--text1);
+  }
+
+td {
+    border: 1px solid var(--dividercolor);
+    text-align: left;
+    padding: 8px;
+  }
+
+th {
+    text-align: left;
+    padding: 8px;
+  }  
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+tr:nth-child(even):hover {
+    background-color: var(--primary-color-lightest);
+  }
+tr:hover { 
+    background-color: var(--primary-color-lightest);
+  }  
+
+
+  /* Links */
+
+a {
+    color: var(--secondary-color-darkest);
+}
+a:visited {
+    color: var(--secondary-color-darker);
+  }
+a:hover {
+    color: var(--secondary-color-lighter);
+  }  
+
+.btn {
+    position: relative;
+    display: block;
+    margin: 30px auto;
+    padding: 0;
+    overflow: hidden;
+    border-width: 0;
+    outline: none;
+    border-radius: 2px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+    background-color: var(--secondary-color);
+    color: #ecf0f1;
+    transition: background-color .3s;
+  }
+ 
+.btn:hover, .btn:focus {
+    background-color: var(--secondary-color-darker);
+  }
+  
+.btn > * {
+    position: relative;
+  }
+  
+.btn:before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    display: block;
+    width: 0;
+    padding-top: 0; 
+    border-radius: 100%;
+    background-color: rgba(236, 240, 241, .3);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+  
+.btn:active:before {
+    width: 120%;
+    padding-top: 120%;
+    transition: width .2s ease-out, padding-top .2s ease-out;
+  }
+
+
+span.button--inner {
+    display: block;
+    padding: 6px 12px;
+    color: var(--text1);
+    text-decoration: none;
+    font-family: 'Fira Sans';
+    font-size: 20px;
+    font-weight: 400; 
+}
+
+.btn-primary {
+    background-color: var(--primary-color);
+  }
+  
+.btn-primary:hover, .btn.primary:focus {
+    background-color: var(--primary-color-darker);
+  }
+  

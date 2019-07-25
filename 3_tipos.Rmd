@@ -1,0 +1,150 @@
+class: center, middle, remark-inverse
+
+# 3. Tipos de sistemas de información
+
+---
+
+# Clasificación de los sistemas de información
+
+- Sistemas muy diversos con distintas antigüedades, funcionalidades, solapamientos y denominaciones
+
+.left-column[
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+
+knitr::include_graphics("images/newyorktimes.jpg")
+
+```
+<br>
+<small><small>Imagen de <a href="https://pixabay.com/es/users/janeb13-725943/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1159719">janeb13</a> en <a href="https://pixabay.com/es/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1159719">Pixabay</a></small></small>
+]
+
+.right-column[
+### Dos grandes grupos de sistemas de Información:
+
+- Sistemas de **procesamiento de transacciones**
+
+- Sistemas de **apoyo a las decisiones**
+]
+---
+
+# Algunos sistemas clave:
+
+- Sistemas de Planificación de Recursos Empresariales (ERP)
+
+- Sistemas de Gestión de la Cadena de Suministro (SCM)
+
+- Sistemas de Gestión de Relaciones con el Cliente (CRM)
+
+- Sistemas de Business Intelligence (BI)
+
+- Otros sistemas
+
+---
+
+# Sistemas de Planificación de Recursos Empresariales (ERP)
+
+
+- Tratamiento de transacciones de las distintas funciones empresariales: compras, ventas, contabilidad, recursos humanos...
+
+- Soluciones estandarizadas y modulares
+
+
+- Incluyen tanto **procesamiento de transacciones** como **apoyo a las decisiones**  
+
+(tema 6)
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+
+knitr::include_graphics("images/erps.png")
+
+```
+
+---
+
+# Sistemas de Gestión de la Cadena de Suministro (SCM)
+
+.pull-left[
+
+- Logística y gestión de la cadena de suministro
+
+- SCM *Supply Chain Management*: herramientas para la gestión eficiente de la cadena:
+  - Planificación demanda e inventarios
+  - Programación de producción
+  - Gestión de rutas y envíos...
+  
+- Incluyen tanto **procesamiento de transacciones** como **apoyo a las decisiones**  ]
+
+.pull-right[
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I8Y9yEQTrhw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a href="https://www.youtube.com/watch?v=I8Y9yEQTrhw" target="_blank">
+  <button class="btn">
+    <span class="button--inner">Ver en Youtube</span>
+  </button>
+</a>
+]
+
+
+---
+
+# Sistemas de Gestión de Relaciones con el Cliente (CRM)
+
+.pull-left[
+
+- *Customer Relationship Management* objetivo estratégico de marketing
+
+- Precisa de herramientas informáticas:
+  - Apoyo a call-centers
+  - Automatización fuerza de ventas
+  - Integración de información
+  - Creación de reports
+- Incluyen tanto **procesamiento de transacciones** como **apoyo a las decisiones**    
+  ]
+  
+.pull-right[
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E-W2ILiRLnk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a href="https://www.youtube.com/watch?v=E-W2ILiRLnk" target="_blank">
+  <button class="btn">
+    <span class="button--inner">Ver en Youtube</span>
+  </button>
+</a>
+]
+  
+---
+
+# Sistemas de Business Intelligence (BI)
+
+
+.pull-left[
+Sistemas que utilizan la información generada en el conjunto de la organización para proporcionar informes e indicadores clave que permitan la toma de decisiones.
+
+- Son sistemas de **apoyo a las decisiones**  
+- Tema 4
+]
+
+.pull.right[
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="50%"}
+
+knitr::include_graphics("images/businessintelligence.jpg")
+
+```
+
+<small><small>Imagen de <a href="https://pixabay.com/es/users/sujins-8495731/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3262753">sujin soman</a> en <a href="https://pixabay.com/es/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3262753">Pixabay</a></small></small>
+
+]
+
+
+
+---
+
+# Otros sistemas
+
+- Suites de ofimática: e.g. [Office 365](https://www.office.com/), [LibreOffice](https://es.libreoffice.org/)
+- Gestión documental: http://www.unavarra.es/archivogeneral/ ,  http://www2.unavarra.es/gesadj/seccionArchivo/clasificacion/cuadro2019.pdf
+- Sistemas de Información Geográfica: e.g. https://www.esri.es/arcgis/
+

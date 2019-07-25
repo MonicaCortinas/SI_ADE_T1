@@ -1,0 +1,18 @@
+
+class: title-slide-final, middle
+
+background-image: url("images/logoblanco.png")
+background-size: 100px
+background-position: 90% 5%
+
+# Final del tema
+
+<a href="https://b.socrative.com/teacher/" target="_blank">
+  <button class="btn">
+    <span class="button--inner"><i class="fas fa-question-circle"></i> Test en Socrative</a> </span>
+  </button>
+</a>
+
+
+
+
