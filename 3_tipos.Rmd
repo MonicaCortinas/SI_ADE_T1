@@ -3,31 +3,33 @@ class: center, middle, remark-inverse
 # 3. Tipos de sistemas de información
 
 ---
+# Clasificación de los SI
 
-# Clasificación de los sistemas de información
-
-- Sistemas muy diversos con distintas antigüedades, funcionalidades, solapamientos y denominaciones
 
 .left-column[
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+Sistemas muy diversos con distintas antigüedades, funcionalidades, solapamientos y denominaciones
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
 
 knitr::include_graphics("images/newyorktimes.jpg")
 
 ```
-<br>
-<small><small>Imagen de <a href="https://pixabay.com/es/users/janeb13-725943/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1159719">janeb13</a> en <a href="https://pixabay.com/es/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1159719">Pixabay</a></small></small>
+
 ]
 
 .right-column[
+
 ### Dos grandes grupos de sistemas de Información:
 
 - Sistemas de **procesamiento de transacciones**
 
 - Sistemas de **apoyo a las decisiones**
-]
----
 
+]
+
+---
 # Algunos sistemas clave:
 
 - Sistemas de Planificación de Recursos Empresariales (ERP)
@@ -42,7 +44,7 @@ knitr::include_graphics("images/newyorktimes.jpg")
 
 ---
 
-# Sistemas de Planificación de Recursos Empresariales (ERP)
+# S. de Planificación de Recursos Empresariales (ERP)
 
 
 - Tratamiento de transacciones de las distintas funciones empresariales: compras, ventas, contabilidad, recursos humanos...
@@ -62,13 +64,13 @@ knitr::include_graphics("images/erps.png")
 
 ---
 
-# Sistemas de Gestión de la Cadena de Suministro (SCM)
+# S. Gestión de Cadena de Suministro (SCM)
 
 .pull-left[
 
 - Logística y gestión de la cadena de suministro
 
-- SCM *Supply Chain Management*: herramientas para la gestión eficiente de la cadena:
+- SCM *Supply Chain Management*: gestión eficiente de la cadena:
   - Planificación demanda e inventarios
   - Programación de producción
   - Gestión de rutas y envíos...
@@ -76,7 +78,7 @@ knitr::include_graphics("images/erps.png")
 - Incluyen tanto **procesamiento de transacciones** como **apoyo a las decisiones**  ]
 
 .pull-right[
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I8Y9yEQTrhw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="315" src="https://www.youtube.com/embed/I8Y9yEQTrhw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <a href="https://www.youtube.com/watch?v=I8Y9yEQTrhw" target="_blank">
   <button class="btn">
@@ -88,13 +90,13 @@ knitr::include_graphics("images/erps.png")
 
 ---
 
-# Sistemas de Gestión de Relaciones con el Cliente (CRM)
+# S. Gestión Relaciones con el Cliente (CRM)
 
 .pull-left[
 
 - *Customer Relationship Management* objetivo estratégico de marketing
 
-- Precisa de herramientas informáticas:
+- Herramientas informáticas:
   - Apoyo a call-centers
   - Automatización fuerza de ventas
   - Integración de información

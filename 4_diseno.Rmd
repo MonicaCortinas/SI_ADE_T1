@@ -38,7 +38,7 @@ knitr::include_graphics("images/ciclodesarrollo.png")
 
 .pull-right[
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e3A4wLbyK64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="300" src="https://www.youtube.com/embed/e3A4wLbyK64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <a href="https://www.youtube.com/watch?v=e3A4wLbyK64" target="_blank">
   <button class="btn">
     <span class="buttoninner">Ver en Youtube</span>

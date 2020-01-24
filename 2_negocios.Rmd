@@ -5,7 +5,10 @@ class: center, middle, remark-inverse
 ---
 
 
+
 # 2.1. El impacto de las TI en la sociedad
+
+<div style="font-size:0.9em">
 
 <table class="tablabase">
 <tr>
@@ -61,6 +64,8 @@ class: center, middle, remark-inverse
 
 </tr>
 </table>
+
+</div>
 
 <span style="font-size:0.7em"><i>Fuente: Laudon y Guercier (2018)</i><span>
 .footnote[<span style="font-size:0.7em">* Francia, Alemania, Italia, España, Reino Unido</span>]
