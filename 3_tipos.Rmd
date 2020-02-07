@@ -147,6 +147,6 @@ knitr::include_graphics("images/businessintelligence.jpg")
 # Otros sistemas
 
 - Suites de ofimática: e.g. [Office 365](https://www.office.com/), [LibreOffice](https://es.libreoffice.org/)
-- Gestión documental: http://www.unavarra.es/archivogeneral/ ,  http://www2.unavarra.es/gesadj/seccionArchivo/clasificacion/cuadro2019.pdf
+- Gestión documental: http://www.unavarra.es/archivogeneral/ ,  http://www2.unavarra.es/gesadj/seccionArchivo/clasificacion/01cuadro2020.pdf
 - Sistemas de Información Geográfica: e.g. https://www.esri.es/arcgis/
 

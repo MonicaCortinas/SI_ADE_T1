@@ -9,34 +9,8 @@
 
 ## Otras actividades cortas
 
-- Por parejas, pensar el uso de los dispositivos móviles para el desarrollo de las actividades en la universidad: listado de aplicaciones y usos.
-- Name your two favorite mobile devices.  For each device, discuss how it has influenced your  work or personal life.
-
- **Answer:**
-
-Answers may vary.
-
-LO: 1—Describe the characteristics of the digital world, contemporary societal issues of the digital world, and IT megatrends shaping the digital future.
-
-AACSB: Reflective Thinking Skills
-
- 
-
-- Describe how cloud computing can improve your personal productivity.
-
- 
-
-**Answer:**
-
-The ability to access data and files from anywhere with connectivity to the Internet, including 
-
-e-mails, files, notes, and the like, from different devices, including mobile devices, further enhances portability and mobility.
-
-LO: 1—Describe the characteristics of the digital world, contemporary societal issues of the digital world, and IT megatrends shaping the digital future.
-
-AACSB: Use of Information Technology 
-
-
+- Por parejas, pensar el uso de los dispositivos móviles para el desarrollo de las actividades en la universidad: listado de aplicaciones y usos. 
+- Encuesta digicomp
 
 ## Socrative
 
