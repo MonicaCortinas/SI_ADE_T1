@@ -3,7 +3,7 @@ title: "Tema 1: Los Sistemas de Información en los negocios globales contempor�
 subtitle: "ADE. 172821. Sistemas de Información"
 author: "Mónica Cortiñas"
 institute: "Universidad Pública de Navarra"
-date: "Curso 2019-2020 (actualizada: `r format(Sys.time(), '%d/%m/%Y')`)"
+date: "Curso 2020-2021 (actualizada: `r format(Sys.time(), '%d/%m/%Y')`)"
 output:
   xaringan::moon_reader:
     css: [default, styles/general.css, styles/xaringan.css, css/specific.css]
@@ -32,6 +32,21 @@ layout: true
 <div class="my-footer"><span>Sistemas de Información <u>Tema 1</u></span></div>
 
 
+
+---
+class: middle
+
+# Objetivos de aprendizaje
+
+- Distinguir entre información, tecnología de información y sistema de información. 
+- Comprender las implicaciones de las características de la información tienen en su gestión.
+- Saber definir e identificar un sistema de información. 
+- Ser capaces de citar los principales cambios en el entorno que genera la tecnología de información. 
+- Ser capaces de explicar porqué los Sistemas de Información y la gestión de las tecnologías de la Información son tan esenciales para los negocios hoy en día.
+- Reconocer el criterio para clasificar sistemas de información y citar los tipos de sistemas más relevantes y su función.
+- Identificar los participantes necesarios y las etapas para desarrollar con éxito un sistema de información.
+- Conocer las diferencias entre las distintas metodologías para el desarrollo de sistemas de información.
+
 ---
 class: center, middle, remark-inverse 
 
@@ -42,24 +57,14 @@ class: middle
 
 # Secciones
 
-### - Objetivos de aprendizaje
-
 ### 1.- ¿Qué es un Sistema de Información?
 ### 2.- El papel de los SI en los negocios
 ### 3.- Tipos de sistemas de información
 ### 4.- Diseño e implementación de sistemas de información
 
+https://www.mindomo.com/mindmap/289e6e09459546d1a1dbecf1308cf9bb
+
 ---
-class: middle
-
-# Objetivos de aprendizaje
-
-- Comprender cuáles son los **efectos** de los Sistemas de Información en las empresas y organizaciones su relación con la globalización.
-
-- Ser capaces de explicar porqué los Sistemas de Información son tan **esenciales** para los negocios hoy en día.
-
-- Ser capacer de **definir qué es** un Sistema de Información y describir su gestión, organización y componentes de tecnología.
-
 
 ```{r child='1_quees.Rmd'}
 ```
