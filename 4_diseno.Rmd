@@ -34,12 +34,14 @@ knitr::include_graphics("images/ciclodesarrollo.png")
 
 - Enfoque basado en **prototipos**: e.g. [programa Apolo](https://es.wikipedia.org/wiki/Programa_Apolo)
 
-- Metodologías **Agile**: [Manifiesto](https://agilemanifesto.org/iso/es/manifesto.html)]
+- Metodologías **Agile**: [Manifiesto](https://agilemanifesto.org/iso/es/manifesto.html), SCRUM, Kanban, Design Thinking
+]
 
 .pull-right[
 
-<iframe width="500" height="300" src="https://www.youtube.com/embed/e3A4wLbyK64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<a href="https://www.youtube.com/watch?v=e3A4wLbyK64" target="_blank">
+<iframe width="500" height="300" src="https://www.youtube.com/embed/a33xOe9d_Dk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a href="https://www.youtube.com/watch?v=a33xOe9d_Dk" target="_blank">
   <button class="btn">
     <span class="buttoninner">Ver en Youtube</span>
   </button>
@@ -47,7 +49,19 @@ knitr::include_graphics("images/ciclodesarrollo.png")
 ]
 
 ---
-# Estructura
+# Resumen
+
+<a href="https://b.socrative.com/teacher/" target="_blank">
+  <button class="btn btn-final">
+    <span class="buttoninner"><i class="fas fa-question-circle"></i> Test en Socrative</a> </span>
+  </button>
+</a>
+
+
+
+https://www.mindomo.com/mindmap/289e6e09459546d1a1dbecf1308cf9bb
+
+
 
 ### <span class="rojito">1.-</span> ¿Qué es un Sistema de Información?
 ### <span class="rojito">2.-</span> El papel de los SI en los negocios

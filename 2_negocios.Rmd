@@ -128,7 +128,7 @@ knitr::include_graphics("images/walmart.png")
 
 ---
 
-# (b) Nuevos productos,servicios y modelos de negocio
+# (b) Nuevos productos, servicios y modelos de negocio
 
 > ### Modelos de negocio: la forma en que una empresa produce, entrega y vende un producto o servicio para crear riqueza
 
